@@ -48,7 +48,7 @@ a
   z-index: 300;
   width: 100%;
   background-color: whitesmoke;
-  height: 60px;
+/*   height: 60px; */
   line-height: 60px;
   margin-top: 0px !important;
   box-shadow: 0 0 4px rgba(0, 0, 0, .2);
